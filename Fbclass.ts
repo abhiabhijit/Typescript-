@@ -77,9 +77,7 @@ class FacebookUserDetails{
 //objects creation
 //object one
 let userOne = new FacebookUserDetails("Abhijit","29/07/1998","Male","Female",["Telugu","English","Hindi"],
-"Single",
-"Formal education will make you a living,self education will make you a fortune",
- "I am self motivated person pursuing undergraduate Education in Amrita college, bangalore",
+"Single","I am self motivated person pursuing undergraduate Education in Amrita college, bangalore","Formal education will make you a living,self education will make you a fortune",
  "Bangalore,Karnataka",7259444638,"838200096267013", [{studied_Institution:"Amrita College",Education:"Btech"},{studied_Institution:"Bhashyam IIT Foundation",Education:"Secondary Education"}]);
 
 console.log("FacebookUserDetails")

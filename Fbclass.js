@@ -61,7 +61,7 @@ var FacebookUserDetails = /** @class */ (function () {
 }()); //end of class
 //objects creation
 //object one
-var userOne = new FacebookUserDetails("Abhijit", "29/07/1998", "Male", "Female", ["Telugu", "English", "Hindi"], "Single", "Formal education will make you a living,self education will make you a fortune", "I am self motivated person pursuing undergraduate Education in Amrita college, bangalore", "Bangalore,Karnataka", 7259444638, "838200096267013", [{ studied_Institution: "Amrita College", Education: "Btech" }, { studied_Institution: "Bhashyam IIT Foundation", Education: "Secondary Education" }]);
+var userOne = new FacebookUserDetails("Abhijit", "29/07/1998", "Male", "Female", ["Telugu", "English", "Hindi"], "Single", "I am self motivated person pursuing undergraduate Education in Amrita college, bangalore", "Formal education will make you a living,self education will make you a fortune", "Bangalore,Karnataka", 7259444638, "838200096267013", [{ studied_Institution: "Amrita College", Education: "Btech" }, { studied_Institution: "Bhashyam IIT Foundation", Education: "Secondary Education" }]);
 console.log("FacebookUserDetails");
 console.log(userOne);
 userOne.CelebrateBirthday();
